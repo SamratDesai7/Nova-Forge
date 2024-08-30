@@ -41,7 +41,9 @@ Logo image--https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk7o4QNN2c-szF
     margin: 0;
     padding: 0;
   }
-  
+  html{
+scroll-behavior: smooth;
+  }
   body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
