@@ -17,11 +17,22 @@ This is the official repository for the e-commerce platform of NOVA- Fashion Wea
     <b> Customer Support:</b> Easy-to-access support for inquiries.
   </li>
 </ul>
-
-
-
-
-
+<hr>
+<h3>Technologies Used</h3>
+<ul>
+  <li>
+    <b> Frontend:</b> Html,Ejs,Bootstrap.
+  </li>
+  <li>
+    <b>Styling:</b> CSS.
+  </li>
+  <li>
+    <b>Backend:</b> Node.js,express.js
+  </li>
+  <li>
+    <b>Database:</b> MongoDB.
+  </li>
+</ul>
 
 
 
