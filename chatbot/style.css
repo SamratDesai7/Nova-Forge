@@ -1,0 +1,45 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.chatbox {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ddd;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.message {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 15px;
+    max-width: 70%;
+    word-wrap: break-word;
+    display: inline-block;
+}
+
+.message.user {
+    background-color: #cce5ff; /* Light blue background for user messages */
+    color: black;
+    align-self: flex-end;
+    text-align: right;
+    border: 1px solid #007bff;
+}
+
+.message.bot {
+    background-color: #e2e3e5; /* Light gray background for bot messages */
+    color: black;
+    align-self: flex-start;
+    text-align: left;
+    border: 1px solid #ccc;
+}
+
+#options {
+    margin-top: 10px;
+}
+
+#otherQueryContainer {
+    margin-top: 15px;
+}
