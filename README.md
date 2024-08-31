@@ -33,9 +33,8 @@ This is the official repository for the e-commerce platform of NOVA- Fashion Wea
     <b>Database:</b> MongoDB.
   </li>
 </ul>
-
-
-
-
+<hr>
+<h3>Issues & Support</h3>
+If you encounter any issues with the website or have feature requests, please open an issue on GitHub. For urgent support, contact us at novacloths@gmail.com
 
 
