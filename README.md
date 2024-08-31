@@ -35,6 +35,6 @@ This is the official repository for the e-commerce platform of NOVA- Fashion Wea
 </ul>
 <hr>
 <h3>Issues & Support</h3>
-If you encounter any issues with the website or have feature requests, please open an issue on GitHub. For urgent support, contact us at <a>novacloths@gmail.com</a>
+If you encounter any issues with the website or have feature requests, please open an issue on GitHub. For urgent support, contact us at <a href="https://mail.google.com/mail/u/0/#inbox">novacloths@gmail.com</a>
 
 
