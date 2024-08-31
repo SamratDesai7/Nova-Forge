@@ -1,4 +1,15 @@
-https://drive.google.com/file/d/1aRMucPt3PwWAa-dHc-4BuyjQoFt_zQeU/view
+
+router.get('/logout' , (req , res , next) => {
+  req.logout((err) => {
+    if(err){
+      next(err);
+    }
+    req.flash("success", "You are logout now");
+    res.redirect("/listing");
+  })
+})
+
+
 
 
 
