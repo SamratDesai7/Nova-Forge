@@ -36,5 +36,10 @@ This is the official repository for the e-commerce platform of NOVA- Fashion Wea
 <hr>
 <h3>Issues & Support</h3>
 If you encounter any issues with the website or have feature requests, please open an issue on GitHub. For urgent support, contact us at <a href="https://mail.google.com/mail/u/0/#inbox">novacloths@gmail.com</a>
-
-
+<hr>
+<h3>NOVA FORGE</h3>
+<h3>TEAM MEMBERS</h3>
+<h4>Samrat Krishnath Desai</h4>
+<h4>Prajwal Manoj Majgonkar</h4>
+<h4>Vinay Vishnu Khavare</h4>
+<h3></h3>
