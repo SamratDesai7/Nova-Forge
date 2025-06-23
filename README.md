@@ -1,45 +1,49 @@
-<h1> NOVA- Fashion Wear an E-Commerce Website</h1>
-<h3>Project Overview</h3>
-This is the official repository for the e-commerce platform of NOVA- Fashion Wear, a dynamic and responsive website offering a wide range of clothing options for men, women, and children. The platform is designed to provide a seamless shopping experience with features such as personalized recommendations, easy navigation, and secure payment processing.
-<hr>
-<h3>Features</h3>
-<ul>
-  <li> 
-   <b> User-Friendly Interface:</b> Intuitive design with easy-to-use navigation and product filtering.
-  </li>
-  <li> 
-    <b> Product Catalog:</b> Extensive range of clothing items, categorized by gender.
-  </li>
-  <li> 
-    <b> Secure Checkout:</b> Integrated payment gateway.(*ONLY HTML PAGE)
-  </li>
-  <li>
-    <b> Customer Support:</b> Easy-to-access support for inquiries.
-  </li>
-</ul>
-<hr>
-<h3>Technologies Used</h3>
-<ul>
-  <li>
-    <b> Frontend:</b> Html,Ejs,Bootstrap.
-  </li>
-  <li>
-    <b>Styling:</b> CSS.
-  </li>
-  <li>
-    <b>Backend:</b> Node.js,express.js
-  </li>
-  <li>
-    <b>Database:</b> MongoDB.
-  </li>
-</ul>
-<hr>
-<h3>Issues & Support</h3>
-If you encounter any issues with the website or have feature requests, please open an issue on GitHub. For urgent support, contact us at <a href="https://mail.google.com/mail/u/0/#inbox">novacloths@gmail.com</a>
-<hr>
-<h3>NOVA FORGE</h3>
-<h3>TEAM MEMBERS</h3>
-<h4>Samrat Krishnath Desai</h4>
-<h4>Prajwal Manoj Majgonkar</h4>
-<h4>Vinay Vishnu Khavare</h4>
-<h3></h3>
+<h1 align="center">🚀 Nova-Forge</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/SamratDesai7/Nova-Forge?style=for-the-badge" />
+  <img src="https://img.shields.io/github/languages/top/SamratDesai7/Nova-Forge?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/SamratDesai7/Nova-Forge?style=for-the-badge" />
+</p>
+
+---
+
+## 🪐 What is Nova-Forge?
+
+**Nova-Forge** is a creative, tech-driven project crafted with precision and passion. It represents a space where ideas take shape — from **core logic to visual design**.
+
+Whether it’s a **JavaScript-based tool**, a **frontend experiment**, or a **full-stack concept**, Nova-Forge is a sandbox of innovation. 🧪
+
+> 🔧 **(Please update this section based on your actual project purpose: e.g., Task Manager, Blog App, Compiler, etc.)**
+
+---
+
+## ⚙️ Tech Stack
+
+| Tech        | Purpose                     |
+|-------------|-----------------------------|
+| HTML/CSS    | UI and layout               |
+| JavaScript  | Interactivity and logic     |
+| Bootstrap   | Responsive design (optional)|
+| Node/React/etc | Backend or SPA (if used) |
+
+> 💡 Update the stack as per your actual usage (React, Node.js, Express, MongoDB, etc.)
+
+---
+
+## 📸 Screenshots
+
+> _(Add 1–2 images showing your project UI, functionality, or design)_
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-screenshot-path" width="600" alt="Nova-Forge Screenshot"/>
+</p>
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the Repository**
+```bash
+git clone https://github.com/SamratDesai7/Nova-Forge.git
+cd Nova-Forge
