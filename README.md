@@ -14,7 +14,6 @@
 
 Whether it’s a **JavaScript-based tool**, a **frontend experiment**, or a **full-stack concept**, Nova-Forge is a sandbox of innovation. 🧪
 
-> 🔧 **(Please update this section based on your actual project purpose: e.g., Task Manager, Blog App, Compiler, etc.)**
 
 ---
 
@@ -27,19 +26,9 @@ Whether it’s a **JavaScript-based tool**, a **frontend experiment**, or a **fu
 | Bootstrap   | Responsive design (optional)|
 | Node/React/etc | Backend or SPA (if used) |
 
-> 💡 Update the stack as per your actual usage (React, Node.js, Express, MongoDB, etc.)
 
 ---
 
-## 📸 Screenshots
-
-> _(Add 1–2 images showing your project UI, functionality, or design)_
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-screenshot-path" width="600" alt="Nova-Forge Screenshot"/>
-</p>
-
----
 
 ## 🚀 How to Run
 
